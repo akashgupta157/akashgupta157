@@ -12,8 +12,8 @@ A passionate and driven professional transitioning from a successful career in t
 - 🔭 I am a Full-Stack Web Developer and I love spending time with my cats in my leisure time<br>
 - 👯 I’m looking to collaborate on real products while working for an organization <br>
 - 💬 Ask me about Javascript, Frontend, or MERN Stack I would love to help<br>
-- 💼 <a href="https://akashgupta157.vercel.app" target="_blank" >My Portfolio</a>
-- 📫 You can reach out to me directly via 📲<a href="https://www.linkedin.com/in/akashgupta-webdev" target="_blank" >LinkedIn</a> or can put a 📧 <a href="mailto:akashgupta989322@gmail.com">Mail</a>
+- 💼 <a href="https://akashgupta157.vercel.app" target="_blank">My Portfolio</a>
+- 📫 You can reach out to me directly via 📲<a href="https://www.linkedin.com/in/akashgupta-webdev" target="_blank">LinkedIn</a> or can put a 📧 <a href="mailto:akashgupta989322@gmail.com">Mail</a>
 
 
 
