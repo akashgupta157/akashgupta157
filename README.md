@@ -14,7 +14,6 @@
 [![Portfolio](https://img.shields.io/badge/▶_akashguptadev.in-000?style=for-the-badge&logo=vercel&logoColor=00FF41&labelColor=000)](https://www.akashguptadev.in)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/akashgupta-webdev)
 [![Email](https://img.shields.io/badge/gmail-mail_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:akashgupta989322@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=akashgupta157&color=00FF41&style=for-the-badge&label=VISITORS&labelColor=000)
 
 </div>
 
